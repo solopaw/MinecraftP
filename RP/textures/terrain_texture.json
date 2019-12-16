@@ -14,5 +14,8 @@
       "rainbow_ore": {
       "textures": "textures/blocks/rainbow_ore"
     }
+      "example_unique_block": {
+      "textures": "textures/blocks/example_unique_block"
+    }
   }
 }
