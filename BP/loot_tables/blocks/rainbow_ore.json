@@ -1,0 +1,70 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:diamond"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:emerald"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:coal"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:dye",
+                    "functions": [
+                        {
+                            "function": "set_data",
+                            "data": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:gold_ingot"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:iron_ingot"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:prismarine_shard"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:prismarine_crystals"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:redstone"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:blaze_powder"
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:netherstar"
+                }
+            ]
+        }
+    ]
+}
