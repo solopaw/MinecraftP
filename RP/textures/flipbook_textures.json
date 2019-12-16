@@ -1,0 +1,7 @@
+[
+{
+    "flipbook_texture": "textures/blocks/rainbow_ore",
+    "atlas_tile": "rainbow_ore",
+    "ticks_per_frame": 42
+  }
+]

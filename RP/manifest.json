@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Tutorial Blocks Res Pack By DRP",
+        "name": "Tutorial Blocks Res Pack By DRP",
+        "uuid": "ab267951-6d99-43c2-b868-c63dcc6ca1e4",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "Tutorial Blocks Res Pack By DRP",
+            "type": "resources",
+            "uuid": "55dea187-2ba4-4406-9a6c-d07cf2e65e02",
+            "version": [0, 0, 1]
+        }
+    ]
+}

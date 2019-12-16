@@ -1,0 +1,20 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  
+  "tutorial:purple_ore": {
+    "textures": "purple_ore",
+    "sound": "stone"
+  },
+  "tutorial:lime_ore": {
+   "textures": "lime_ore",
+    "sound": "grass"
+  },
+  "tutorial:rainbow_ore": {
+    "textures": "rainbow_ore",
+    "sound": "glass"
+  }
+}
