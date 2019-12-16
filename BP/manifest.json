@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Item Template Bev Pack By DRP",
+        "name": "Item Template Bev Pack By DRP",
+        "uuid": "5397eadf-e1f6-4a3e-845d-a6ac2e8610d5",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Item Template Bev Pack By DRP",
+            "type": "data",
+            "uuid": "b9fb5e3a-caa3-4a9b-a48c-f72972e49f09",
+            "version": [0, 0, 1]
+        }
+    ]
+}
